@@ -1,8 +1,7 @@
 - 👋 Hi, I’m  quezia
 - 👀 I’m interested in  programação
 - 🌱 I’m currently learning ...java, mongod e css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  por email queziards@gmail.com
 
 <!---
 queziards/queziards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
