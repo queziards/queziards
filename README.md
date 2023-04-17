@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  quezia
 - 👀 I’m interested in  programação
-- 🌱 I’m currently learning ...java, mongod e css
+- 🌱 I’m currently learning ...html & css, javascript, unity
 - 📫 How to reach me  por email queziards@gmail.com
 
 <!---
