@@ -1,5 +1,6 @@
-- 👋 Hi, I’m  quezia
-- 👀 I’m interested in  programação
+#Oi!, Eu sou a Quezia!
+- 👋 Hi, I’m  Quezia
+- 👀 Hoje trabalho com um pouco de front-end
 - 🌱 I’m currently learning ...html & css, javascript, unity
 - 📫 How to reach me  por email queziards@gmail.com
 
