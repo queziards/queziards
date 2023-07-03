@@ -1,6 +1,6 @@
 #Oi!, Eu sou a Quezia!
 - 👋 Hi, I’m  Quezia
-- 👀 Hoje trabalho com um pouco de front-end
+- 👀 Aprendendo e trabalhando com um pouco de front-end e js 
 - 🌱 I’m currently learning ...html & css, javascript, unity
 - 📫 How to reach me  por email queziards@gmail.com
 
